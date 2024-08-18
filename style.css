@@ -1,0 +1,31 @@
+/* *{
+    color: white;
+} */
+.container{
+    background-color: purple;
+    /* height: 50px; */
+}
+.container-fluid{
+    background-color: rgb(167, 35, 167);
+    /* height: 50px; */
+}
+.container-sm{
+    background-color: rgb(105, 43, 105);
+    /* height: 50px; */
+}
+.container-md{
+    background-color: rgb(85, 38, 85);
+    /* height: 50px; */
+}
+.container-lg{
+    background-color: rgb(78, 1, 78);
+    /* height: 50px; */
+}
+.container-xl{
+    background-color: rgb(54, 1, 54);
+    /* height: 50px; */
+}
+.container-xxl{
+    background-color: rgb(34, 1, 34);
+    /* height: 50px; */
+}
